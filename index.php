@@ -16,10 +16,3 @@ if(file_exists('controllers/' . $c . '.php')){
 }else{
     die("Error : El controlador [{$c}] no existe.");
 }
-
-/*
-	CRUD creado por Oscar Amado
-	Contacto: oscarfamado@gmail.com
-*/
-
-

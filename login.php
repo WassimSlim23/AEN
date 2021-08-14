@@ -4,9 +4,6 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title> App landing</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="manifest" href="site.webmanifest">
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
 
 	<!-- CSS here -->
@@ -65,7 +62,7 @@
             <!-- Forget Password -->
             <a href="#" class="forget">Forget Password</a>
             <!-- Forget Password -->
-            <a href="register.html" class="registration">Registration</a>
+            <a href="register.php" class="registration">Registration</a>
         </div>
     </form>
     <!-- /end login form -->

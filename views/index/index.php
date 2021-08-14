@@ -2,13 +2,8 @@
 <html class="no-js" lang="zxx">
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title> Hosting | Template</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="manifest" href="site.webmanifest">
+    <title> AEN</title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo/logo.png">
-
     <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
@@ -70,8 +65,8 @@
                                                 </li>
                                                 <li><a href="contact.html">Contact</a></li>
                                                 <!-- Button -->
-                                                <li class="button-header margin-left "><a href="register.html" class="btn">Sign Up</a></li>
-                                                <li class="button-header"><a href="login.html" class="btn3">Sign In</a></li>
+                                                <li class="button-header margin-left "><a href="register.php" class="btn">Sign Up</a></li>
+                                                <li class="button-header"><a href="login.php" class="btn3">Sign In</a></li>
                                             </ul>
                                         </nav>
                                     </div>
@@ -543,7 +538,7 @@
                         <div class="single-footer-caption mb-50">
                             <!-- logo -->
                             <div class="footer-logo mb-25">
-                                <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                                <a href="index.html"><img width="50px" src="assets/img/logo/logo2_footer.png" alt=""></a>
                             </div>
                             <div class="footer-tittle mb-50">
                                 <p>Subscribe our newsletter to get updates about our services</p>
